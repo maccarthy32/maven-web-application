@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.208.48.135:8081/repository/maven-wapp/</url>
+	      <url>http://54.86.33.219:8081/repository/deploy-maven/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.208.48.135:8081/repository/maven-wapp-snapshot/</url>
+	      <name>Landmark Technologies Snapshot Nexus Repository</name>
+	      <url>http://54.86.33.219:8081/repository/deply-mvn-snapshort/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
